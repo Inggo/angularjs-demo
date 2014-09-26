@@ -2,83 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d3f9ba-9426-4a76-830a-afb9cf10eb3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/logo/angularJS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/enhanced-html.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/psd/enhanced-html.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/http-request.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/introduction.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/psd/introduction.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/modular.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/mvc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/mvc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/psd/mvc.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/private-cloud.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/route.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/spa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extras/psd/spa.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/print/paper.css" afterPath="$PROJECT_DIR$/src/css/print/paper.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/print/pdf.css" afterPath="$PROJECT_DIR$/src/css/print/pdf.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/reveal.css" afterPath="$PROJECT_DIR$/src/css/reveal.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/reveal.min.css" afterPath="$PROJECT_DIR$/src/css/reveal.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/README.md" afterPath="$PROJECT_DIR$/src/css/theme/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/beige.css" afterPath="$PROJECT_DIR$/src/css/theme/beige.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/blood.css" afterPath="$PROJECT_DIR$/src/css/theme/blood.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/default.css" afterPath="$PROJECT_DIR$/src/css/theme/default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/moon.css" afterPath="$PROJECT_DIR$/src/css/theme/moon.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/night.css" afterPath="$PROJECT_DIR$/src/css/theme/night.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/serif.css" afterPath="$PROJECT_DIR$/src/css/theme/serif.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/simple.css" afterPath="$PROJECT_DIR$/src/css/theme/simple.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/sky.css" afterPath="$PROJECT_DIR$/src/css/theme/sky.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/solarized.css" afterPath="$PROJECT_DIR$/src/css/theme/solarized.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/beige.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/beige.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/blood.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/blood.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/default.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/default.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/moon.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/moon.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/night.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/night.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/serif.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/serif.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/simple.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/simple.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/sky.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/sky.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/source/solarized.scss" afterPath="$PROJECT_DIR$/src/css/theme/source/solarized.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/template/mixins.scss" afterPath="$PROJECT_DIR$/src/css/theme/template/mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/template/settings.scss" afterPath="$PROJECT_DIR$/src/css/theme/template/settings.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/theme/template/theme.scss" afterPath="$PROJECT_DIR$/src/css/theme/template/theme.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/reveal.js" afterPath="$PROJECT_DIR$/src/js/reveal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/reveal.min.js" afterPath="$PROJECT_DIR$/src/js/reveal.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/zenburn.css" afterPath="$PROJECT_DIR$/src/lib/css/zenburn.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font/league_gothic-webfont.eot" afterPath="$PROJECT_DIR$/src/lib/font/league_gothic-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font/league_gothic-webfont.svg" afterPath="$PROJECT_DIR$/src/lib/font/league_gothic-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font/league_gothic-webfont.ttf" afterPath="$PROJECT_DIR$/src/lib/font/league_gothic-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font/league_gothic-webfont.woff" afterPath="$PROJECT_DIR$/src/lib/font/league_gothic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font/league_gothic_license" afterPath="$PROJECT_DIR$/src/lib/font/league_gothic_license" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/classList.js" afterPath="$PROJECT_DIR$/src/lib/js/classList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/head.min.js" afterPath="$PROJECT_DIR$/src/lib/js/head.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/html5shiv.js" afterPath="$PROJECT_DIR$/src/lib/js/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/highlight/highlight.js" afterPath="$PROJECT_DIR$/src/plugin/highlight/highlight.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/leap/leap.js" afterPath="$PROJECT_DIR$/src/plugin/leap/leap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/markdown/example.html" afterPath="$PROJECT_DIR$/src/plugin/markdown/example.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/markdown/example.md" afterPath="$PROJECT_DIR$/src/plugin/markdown/example.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/markdown/markdown.js" afterPath="$PROJECT_DIR$/src/plugin/markdown/markdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/markdown/marked.js" afterPath="$PROJECT_DIR$/src/plugin/markdown/marked.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/math/math.js" afterPath="$PROJECT_DIR$/src/plugin/math/math.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/multiplex/client.js" afterPath="$PROJECT_DIR$/src/plugin/multiplex/client.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/multiplex/index.js" afterPath="$PROJECT_DIR$/src/plugin/multiplex/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/multiplex/master.js" afterPath="$PROJECT_DIR$/src/plugin/multiplex/master.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/notes-server/client.js" afterPath="$PROJECT_DIR$/src/plugin/notes-server/client.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/notes-server/index.js" afterPath="$PROJECT_DIR$/src/plugin/notes-server/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/notes-server/notes.html" afterPath="$PROJECT_DIR$/src/plugin/notes-server/notes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/notes/notes.html" afterPath="$PROJECT_DIR$/src/plugin/notes/notes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/notes/notes.js" afterPath="$PROJECT_DIR$/src/plugin/notes/notes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/postmessage/example.html" afterPath="$PROJECT_DIR$/src/plugin/postmessage/example.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/postmessage/postmessage.js" afterPath="$PROJECT_DIR$/src/plugin/postmessage/postmessage.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/print-pdf/print-pdf.js" afterPath="$PROJECT_DIR$/src/plugin/print-pdf/print-pdf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/remotes/remotes.js" afterPath="$PROJECT_DIR$/src/plugin/remotes/remotes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/search/search.js" afterPath="$PROJECT_DIR$/src/plugin/search/search.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/zoom-js/zoom.js" afterPath="$PROJECT_DIR$/src/plugin/zoom-js/zoom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angularjs-basics.iml" afterPath="$PROJECT_DIR$/.idea/angularjs-basics.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../html5-basics-presentation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../html5-basics-presentation/.idea/workspace.xml" />
     </list>
@@ -103,18 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="introduction.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/images/introduction.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-36.333332" vertical-offset="1858" max-vertical-offset="3450">
+              <caret line="182" column="103" selection-start-line="182" selection-start-column="103" selection-end-line="182" selection-end-column="103" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
+      <file leaf-file-name="app.yaml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9828962" vertical-offset="563" max-vertical-offset="2655">
-              <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="956">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -134,6 +61,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/demos/libs/jquery-1.11.1.min.js" />
+        <option value="$PROJECT_DIR$/src/demos/json/topics.json" />
+        <option value="$PROJECT_DIR$/src/demos/css/main.css" />
+        <option value="$PROJECT_DIR$/src/demos/configs/app.js" />
+        <option value="$PROJECT_DIR$/src/demos/controllers/topic.js" />
+        <option value="$PROJECT_DIR$/src/demos/views/topic-thumbnail.html" />
+        <option value="$PROJECT_DIR$/src/demos/directives/topic-thumbnails.js" />
+        <option value="$PROJECT_DIR$/src/demos/index.html" />
+        <option value="$PROJECT_DIR$/app.yaml" />
         <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
@@ -150,7 +86,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -183,21 +119,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html5-basics-presentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="angularjs-basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5-basics-presentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,6 +130,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="angularjs-basics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extras" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,8 +146,166 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../html5-basics-presentation" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demos/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demos/libs" />
+      <recent name="$PROJECT_DIR$/src/demos" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="angularjs-basics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -234,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -242,7 +326,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13631523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13791268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -250,11 +334,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -277,23 +361,123 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../html5-basics-presentation/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28907922" vertical-offset="1980" max-vertical-offset="6780">
+          <caret line="150" column="24" selection-start-line="150" selection-start-column="24" selection-end-line="152" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11111111" vertical-offset="0" max-vertical-offset="3720">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/images/introduction.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../html5-basics-presentation/app/index.html">
+    <entry file="file://$PROJECT_DIR$/src/demos/libs/jquery-1.11.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80472106" vertical-offset="1980" max-vertical-offset="6780">
-          <caret line="182" column="26" selection-start-line="159" selection-start-column="16" selection-end-line="182" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.04761905" vertical-offset="0" max-vertical-offset="945">
+          <caret line="3" column="31549" selection-start-line="3" selection-start-column="31549" selection-end-line="3" selection-end-column="31549" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../codefaci/app/json/tracks.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="958">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../codefaci/app/json/topics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38543898" vertical-offset="0" max-vertical-offset="1365">
+          <caret line="24" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.01565762" vertical-offset="0" max-vertical-offset="958">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/configs/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03131524" vertical-offset="0" max-vertical-offset="958">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/json/topics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08029979" vertical-offset="195" max-vertical-offset="1155">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/controllers/topic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10960334" vertical-offset="0" max-vertical-offset="958">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/views/topic-thumbnail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.016059957" vertical-offset="0" max-vertical-offset="934">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/directives/topic-thumbnails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10960334" vertical-offset="0" max-vertical-offset="958">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24089935" vertical-offset="0" max-vertical-offset="934">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9828962" vertical-offset="563" max-vertical-offset="2655">
-          <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+        <state vertical-scroll-proportion="-36.333332" vertical-offset="1858" max-vertical-offset="3450">
+          <caret line="182" column="103" selection-start-line="182" selection-start-column="103" selection-end-line="182" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="956">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
