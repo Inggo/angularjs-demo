@@ -19,22 +19,11 @@
     <link href="css/main.css" rel="stylesheet">
 </head>
 <body>
-    <div class="container" ng-controller="TopicController">
-        <div class="row">
-            <div class="col-md-4">
-                <input type="text" ng-model="searchText" class="form-control">
-            </div>
-        </div> <br/>
-
-        <div class="row">
-            <div class="col-md-4" ng-repeat="topic in topics | filter : searchText">
-                <topic-thumbnail topic="topic"></topic-thumbnail>
-            </div>
-        </div>
-    </div>
+    <ng-view></ng-view>
 
 
-    <script src="angular.min.js"></script>
+    <script src="libs/angularjs/angular.min.js"></script>
+    <script src="libs/angularjs/angular-route.min.js"></script>
     <script src="libs/jquery-1.11.1.min.js"></script>
     <script src="libs/bootstrap-3.2.0/js/bootstrap.min.js"></script>
 
